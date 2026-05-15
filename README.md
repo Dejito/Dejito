@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi there, I'm Dejito 👋
-### Lead Mobile Software Engineer | Fintech & Cross-Platform Specialist
+# Hi there, 👋
+### Lead Mobile Software Engineer
 
 <img src="https://github-profile-trophy.vercel.app/?username=Dejito&theme=darkhub&no-frame=true&column=4" />
 
@@ -15,22 +15,13 @@ I specialize in building secure, scalable mobile applications with a focus on fi
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Core Expertise** Architecture (SwiftUI, KMM) • Digital Wallets • Payment Gateways • CI/CD Automation
 
----
 
 ### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dejito&show_icons=true&theme=tokyonight&count_private=true" alt="Dejito's Stats" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dejito&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
 </p>
-
----
-
-### 🚀 Projects & Contributions
-- **Kegow Wallet:** Leading the development of secure digital payment solutions.
-- **I AM Alive:** Implementing cross-platform verification systems for the corporate sector.
-- **Modular UI:** Maintaining custom SwiftUI and Flutter component libraries.
 
 ---
 
