@@ -1,31 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Dejito&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+# Hi there, I'm Dejito 👋
+### Lead Mobile Software Engineer | Fintech & Cross-Platform Specialist
 
-### 📊 My GitHub Stats
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Dejito&show_icons=true&theme=radical" alt="Dejito's Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dejito&layout=compact&theme=radical" alt="Dejito's Languages" />
-    </td>
-  </tr>
-</table>
-
-### 🛠️ Tech Stack & Skills
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=Dejito&theme=darkhub&no-frame=true&column=4" />
 
 ---
 
-### 🚀 About Me
+### 💻 Tech Stack & Expertise
+I specialize in building secure, scalable mobile applications with a focus on financial technology and modular architecture.
 
-- 🔭 I’m currently leading a mobile development team in the fintech space.
-- 🌱 I’m deepening my expertise in **Kotlin Multiplatform (KMM)** and **MERN stack**.
-- ⚡ Fun fact: I love automating workflows and building secure payment solutions.
+**Languages & Frameworks** ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54411?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Core Expertise** Architecture (SwiftUI, KMM) • Digital Wallets • Payment Gateways • CI/CD Automation
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dejito&show_icons=true&theme=tokyonight&count_private=true" alt="Dejito's Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dejito&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
+</p>
+
+---
+
+### 🚀 Projects & Contributions
+- **Kegow Wallet:** Leading the development of secure digital payment solutions.
+- **I AM Alive:** Implementing cross-platform verification systems for the corporate sector.
+- **Modular UI:** Maintaining custom SwiftUI and Flutter component libraries.
+
+---
+
+### 📫 Connect with me:
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sage_heartt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+
+</div>
