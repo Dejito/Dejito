@@ -4,6 +4,12 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dejito&show_icons=true&theme=dark)
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dejito&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dejito&layout=compact&theme=dark)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 <!--
 **Dejito/Dejito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
