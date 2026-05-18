@@ -12,11 +12,11 @@
 
 ## 🚀 About Me
 
-- 📱 Building scalable fintech and government mobile apps
-- 🏛 Currently developing the Nigerian Revenue Service mobile app
-- ⚡ Specialized in Kotlin, Swift, Flutter & clean architecture
-- 🔒 Focused on secure, scalable mobile systems
-- 🌱 Exploring Kotlin Multiplatform and advanced mobile architecture
+- 📱 Building scalable fintech and government mobile apps  
+- 🏛 Currently developing the Nigerian Revenue Service mobile app  
+- ⚡ Specialized in Kotlin, Swift, Flutter & clean architecture  
+- 🔒 Focused on secure, scalable mobile systems  
+- 🌱 Exploring Kotlin Multiplatform and advanced mobile architecture  
 
 ---
 
@@ -24,9 +24,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dejito&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dejito&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejito&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dejito&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -46,22 +46,22 @@
 
 ### 📱 Nigerian Revenue Service Mobile App
 Mobile platform for filing and managing:
-- VAT
-- CIT
-- WHT
-- PAYE
-- Stamp Duty
+- VAT  
+- CIT  
+- WHT  
+- PAYE  
+- Stamp Duty  
 
-**Tech Stack:** SwiftUI • Kotlin • REST APIs • Secure Auth • Modular Architecture
+**Tech Stack:** SwiftUI • Kotlin • REST APIs • Secure Auth • Modular Architecture  
 
 ---
 
 ### 💳 Fintech Applications
-Building secure and scalable mobile payment and financial systems with emphasis on:
-- Performance
-- Security
-- Scalability
-- Clean Architecture
+Building secure and scalable mobile financial systems with emphasis on:
+- Performance  
+- Security  
+- Scalability  
+- Clean Architecture  
 
 ---
 
@@ -69,7 +69,7 @@ Building secure and scalable mobile payment and financial systems with emphasis 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dejito&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Dejito&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" />
 
 </div>
 
@@ -79,7 +79,7 @@ Building secure and scalable mobile payment and financial systems with emphasis 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dejito&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Dejito&theme=tokyonight&hide_border=true" />
 
 </div>
 
