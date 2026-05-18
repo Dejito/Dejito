@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey 👋, I'm Dejito
+# Hey 👋,
 
-### Senior Mobile Engineer • Fintech • iOS • Android
+### Senior Mobile Engineer • iOS • Android
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Kotlin+Developer;Swift+iOS+Engineer;Flutter+Developer;Fintech+Builder" alt="Typing SVG" />
 
