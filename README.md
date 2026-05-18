@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oladeji-muhammed-957510118)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dejito)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Kotlin+Developer;Swift+iOS+Engineer;Flutter+Developer;FinTech+Builder;Clean+Architecture" alt="typing-svg"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Kotlin+Developer;Swift+iOS+Engineer;Flutter+Developer;FinTech+Builder" alt="Typing SVG" />
 
 </div>
 
