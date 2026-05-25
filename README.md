@@ -110,18 +110,6 @@ Building secure and scalable mobile financial systems with emphasis on:
 
 ---
 
-### 🎯 **Featured Repositories**
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| [Petra](https://github.com/Dejito/Petra) | Kotlin | Clean architecture implementation for Android |
-| [Form-validation-jetpack-compose](https://github.com/Dejito/Form-validation-in-jetpack-compose) | Kotlin | Best practices for form validation in Compose |
-| [Chat App](https://github.com/Dejito/chat) | Dart/Flutter | Full-featured messaging application |
-| [Tradeify](https://github.com/Dejito/Tradeify) | Node.js/EJS | Full-stack e-commerce platform |
-| [Medik](https://github.com/Dejito/Medik) | Dart/Flutter | Healthcare application |
-| [Compose-Multiplatform](https://github.com/Dejito/Compose-Multiplatform) | Kotlin | KMM exploration project |
-
----
 
 ## 💡 What I Do Best
 
